@@ -1,0 +1,407 @@
+{
+  "Cabinet Ministers": {
+    "Narendra Modi": [
+      "Vadnagar, Gujarat, India",
+      {
+        "lat": 23.7757259,
+        "lng": 72.6165643
+      }
+    ],
+    "Rajnath Singh": [
+      "Bhabhaura, Chakia, Uttar Pradesh 232103, India",
+      {
+        "lat": 25.0492119,
+        "lng": 83.2211538
+      }
+    ],
+    "Amit Shah": [
+      "Mumbai, Maharashtra, India",
+      {
+        "lat": 19.0759837,
+        "lng": 72.8776559
+      }
+    ],
+    "Nirmala Sitharaman": [
+      "Madurai, Tamil Nadu, India",
+      {
+        "lat": 9.9252007,
+        "lng": 78.1197754
+      }
+    ],
+    "Subrahmanyam Jaishankar": [
+      "New Delhi, Delhi, India",
+      {
+        "lat": 28.6139391,
+        "lng": 77.2090212
+      }
+    ],
+    "Nitin Gadkari": [
+      "Nagpur, Maharashtra, India",
+      {
+        "lat": 21.1458004,
+        "lng": 79.0881546
+      }
+    ],
+    "Smriti Irani": [
+      "New Delhi, Delhi, India",
+      {
+        "lat": 28.6139391,
+        "lng": 77.2090212
+      }
+    ],
+    "Piyush Goyal": [
+      "Mumbai, Maharashtra, India",
+      {
+        "lat": 19.0759837,
+        "lng": 72.8776559
+      }
+    ],
+    "D. V. Sadananda Gowda": [
+      "Sullia, Karnataka, India",
+      {
+        "lat": 12.5580735,
+        "lng": 75.3907667
+      }
+    ],
+    "Arjun Munda": [
+      "Jamshedpur, Jharkhand, India",
+      {
+        "lat": 22.8045665,
+        "lng": 86.2028754
+      }
+    ],
+    "Harsimrat Kaur Badal": [
+      "New Delhi, Delhi, India",
+      {
+        "lat": 28.6139391,
+        "lng": 77.2090212
+      }
+    ],
+    "Ram Vilas Paswan": [
+      "Khagaria, Bihar, India",
+      {
+        "lat": 25.50452,
+        "lng": 86.47014159999999
+      }
+    ],
+    "Ravi Shankar Prasad": [
+      "Patna, Bihar, India",
+      {
+        "lat": 25.5940947,
+        "lng": 85.1375645
+      }
+    ],
+    "Dharmendra Pradhan": [
+      "Talcher, Odisha, India",
+      {
+        "lat": 20.9501027,
+        "lng": 85.216816
+      }
+    ],
+    "Narendra Singh Tomar": [
+      "Morar, Gwalior, Madhya Pradesh, India",
+      {
+        "lat": 26.2186123,
+        "lng": 78.22192249999999
+      }
+    ],
+    "Thawar Chand Gehlot": [
+      "Nagda, Madhya Pradesh, India",
+      {
+        "lat": 23.4561435,
+        "lng": 75.42266649999999
+      }
+    ],
+    "Ramesh Pokhriyal": [
+      "Pinani, Uttarakhand, India",
+      {
+        "lat": 30.0257068,
+        "lng": 78.9217522
+      }
+    ],
+    "Harsh Vardhan": [
+      "Delhi, India",
+      {
+        "lat": 28.7040592,
+        "lng": 77.10249019999999
+      }
+    ],
+    "Prakash Javdekar": [
+      "69, Mumbai - Pune Hwy, Shivneri Nagar, Govandi East, Mumbai, Maharashtra 400088, India",
+      {
+        "lat": 19.0515413,
+        "lng": 72.9107251
+      }
+    ],
+    "Mukhtar Abbas Naqvi": [
+      "Prayagraj, Uttar Pradesh, India",
+      {
+        "lat": 25.4358011,
+        "lng": 81.846311
+      }
+    ],
+    "Mahendra Nath Pandey": [
+      "Ghazipur,Uttar Pradesh, India",
+      {
+        "lat": 25.6107088,
+        "lng": 83.5701592
+      }
+    ],
+    "Pralhad Joshi": [
+      "Vijayapura, Karnataka, India",
+      {
+        "lat": 16.8301708,
+        "lng": 75.710031
+      }
+    ],
+    "Gajendra Singh Shekhawat": [
+      "Jaisalmer, Rajasthan 345001, India",
+      {
+        "lat": 26.9157487,
+        "lng": 70.9083443
+      }
+    ],
+    "Giriraj Singh": [
+      "Barahiya, Bihar 811302, India",
+      {
+        "lat": 25.2835533,
+        "lng": 86.0172595
+      }
+    ]
+  },
+  "Ministers of State (Independent Charge)": {
+    "Santosh Gangwar": [
+      "Bareilly, Uttar Pradesh, India",
+      {
+        "lat": 28.3670355,
+        "lng": 79.4304381
+      }
+    ],
+    "Rao Inderjit Singh": [
+      "Rewari, Haryana 123401, India",
+      {
+        "lat": 28.1919738,
+        "lng": 76.6190774
+      }
+    ],
+    "Shripad Yesso Naik": [
+      "Adpai, Goa 403401, India",
+      {
+        "lat": 15.3747012,
+        "lng": 73.9697795
+      }
+    ],
+    "Dr. Jitendra Singh": [
+      "Jammu",
+      {
+        "lat": 32.7266016,
+        "lng": 74.8570259
+      }
+    ],
+    "Kiren Rijiju": [
+      "Nafra 790001",
+      {
+        "lat": 27.3723244,
+        "lng": 92.54579539999999
+      }
+    ],
+    "Prahlad Singh Patel": [
+      "Narsinghpur, Madhya Pradesh, India",
+      {
+        "lat": 22.9473179,
+        "lng": 79.1923266
+      }
+    ],
+    "Raj Kumar Singh": [
+      "Supaul, Bihar 852131, India",
+      {
+        "lat": 26.1233718,
+        "lng": 86.6045134
+      }
+    ],
+    "Hardeep Singh Puri": [
+      "Delhi, India",
+      {
+        "lat": 28.7040592,
+        "lng": 77.10249019999999
+      }
+    ],
+    "Mansukh L. Mandaviya": [
+      "Hanol, Gujarat 364230, India",
+      {
+        "lat": 21.6229681,
+        "lng": 71.7511269
+      }
+    ]
+  },
+  "Ministers of State": {
+    "Faggan Singh Kulaste": [
+      "Mandla, Madhya Pradesh, India",
+      {
+        "lat": 22.5979218,
+        "lng": 80.3713855
+      }
+    ],
+    "Ashwini Kumar Choubey": [
+      "Bhagalpur, Bihar, India",
+      {
+        "lat": 24.9506738,
+        "lng": 87.11984149999999
+      }
+    ],
+    "Arjun Ram Meghwal": [
+      "Bikaner, Rajasthan, India",
+      {
+        "lat": 28.0229348,
+        "lng": 73.3119159
+      }
+    ],
+    "V. K. Singh": [
+      "Pune, Maharashtra, India",
+      {
+        "lat": 18.5204303,
+        "lng": 73.8567437
+      }
+    ],
+    "Krishan Pal Gurjar": [
+      "Faridabad, Haryana, India",
+      {
+        "lat": 28.4089123,
+        "lng": 77.3177894
+      }
+    ],
+    "Raosaheb Danve": [
+      "Jalna, Maharashtra, India",
+      {
+        "lat": 19.8346659,
+        "lng": 75.88163449999999
+      }
+    ],
+    "G. Kishan Reddy": [
+      "Thimmapur, Telangana 509325, India",
+      {
+        "lat": 17.1678509,
+        "lng": 78.2982782
+      }
+    ],
+    "Parshottam Rupala": [
+      "Amreli, Gujarat 365601, India",
+      {
+        "lat": 21.6015242,
+        "lng": 71.2203555
+      }
+    ],
+    "Ramdas Athawale": [
+      "Agalgaon, Maharashtra 416403, India",
+      {
+        "lat": 17.0871483,
+        "lng": 74.9153967
+      }
+    ],
+    "Sadhvi Niranjan Jyoti": [
+      "Patewar, Uttar Pradesh, India",
+      {
+        "lat": 24.9054901,
+        "lng": 82.67804629999999
+      }
+    ],
+    "Babul Supriyo": [
+      "Uttarpara, West Bengal, India",
+      {
+        "lat": 22.6700938,
+        "lng": 88.3354998
+      }
+    ],
+    "Sanjeev Kumar Balyan": [
+      "Kutbi Kutba, Uttar Pradesh, India",
+      {
+        "lat": 29.4035148,
+        "lng": 77.5327095
+      }
+    ],
+    "Sanjay Shamrao Dhotre": [
+      "Akola, Maharashtra, India",
+      {
+        "lat": 20.7002159,
+        "lng": 77.0081678
+      }
+    ],
+    "Anurag Thakur": [
+      "Hamirpur, Himachal Pradesh, India",
+      {
+        "lat": 31.6861745,
+        "lng": 76.52130919999999
+      }
+    ],
+    "Suresh Angadi": [
+      "Kondas Koppa, Karnataka 590020, India",
+      {
+        "lat": 15.7997864,
+        "lng": 74.5682972
+      }
+    ],
+    "Nityanand Rai": [
+      "Hajipur, Bihar, India",
+      {
+        "lat": 25.6924354,
+        "lng": 85.20832399999999
+      }
+    ],
+    "Rattan Lal Kataria": [
+      "Sandhla, Haryana 135133, India",
+      {
+        "lat": 29.9824245,
+        "lng": 77.21526279999999
+      }
+    ],
+    "V. Muraleedharan": [
+      "Thalassery, Kerala, India",
+      {
+        "lat": 11.7491424,
+        "lng": 75.4890346
+      }
+    ],
+    "Renuka Singh": [
+      "Koriya, Chhattisgarh, India",
+      {
+        "lat": 23.3875499,
+        "lng": 82.38857829999999
+      }
+    ],
+    "Som Parkash": [
+      "Daulatpur, Punjab 144516, India",
+      {
+        "lat": 31.1031192,
+        "lng": 76.2116987
+      }
+    ],
+    "Rameswar Teli": [
+      "Duliajan, Assam, India",
+      {
+        "lat": 27.3572121,
+        "lng": 95.3222503
+      }
+    ],
+    "Pratap Chandra Sarangi": [
+      "Gopinathpur, Odisha 756040, India",
+      {
+        "lat": 21.48413,
+        "lng": 86.7912729
+      }
+    ],
+    "Kailash Choudhary": [
+      "Barmer, Rajasthan 344001, India",
+      {
+        "lat": 25.7521467,
+        "lng": 71.3966865
+      }
+    ],
+    "Debasree Chaudhuri": [
+      "Balurghat, West Bengal, India",
+      {
+        "lat": 25.2372834,
+        "lng": 88.7830612
+      }
+    ]
+  }
+}
