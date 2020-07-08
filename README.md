@@ -24,5 +24,25 @@ All these data was scraped from Wikipedia using https://github.com/datta07/Wikip
     Matplotlib
 
 ## How Code runs
-Select a json file you want to explore
-![](images/select.PNG)
+    Select a json file you want to explore
+![](images/selection.PNG)
+
+     Then the following visualization comes:- 
+     View data as DataFrame
+![](images/dataframe.PNG)
+
+     GeoGraphic State wise choropleth map
+![](images/geogarphic.PNG)
+
+     Marker Folium Map with popups
+![](images/marker.PNG)
+
+    Pie Diagram State wise
+![](images/pie.PNG)
+
+    Bar Diagram State wise
+![](images/bar.PNG)
+
+## Whats More:-
+You can get all these vizualizations for all categories
+## NOTE:- All these data was taken from the Wkipedia
