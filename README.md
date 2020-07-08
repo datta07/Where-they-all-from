@@ -1,2 +1,28 @@
 # Where-they-all-from
-Json files of popular people and their place of birth
+    Geographic and Statistical visualization for birth places of various famous persons and States contribution for this.
+    Program is written to Dynamic as we can change the visualization categories.
+## Famous personality's on various categories are included
+    1 CheifJustice
+    2 defenceMinisters
+    3 externalAffairsMinisters
+    4 FinanceMinisters
+    5 footballPlayers
+    6 HockeyPlayers
+    7 homeMinisters
+    8 IndianOdiCricketers
+    9 Presidents
+    10 PrimeMinisters
+    11 UnioinMinisters2020
+    12 VicePresidents
+
+All these data was scraped from Wikipedia using https://github.com/datta07/Wikipedia-Scraper
+
+## Requirements
+    Folium
+    GeoPandas
+    Pandas
+    Matplotlib
+
+## How Code runs
+Select a json file you want to explore
+![](images/select.PNG)
